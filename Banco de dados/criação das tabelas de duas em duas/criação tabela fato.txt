@@ -1,0 +1,14 @@
+CREATE TABLE fato (
+    id_fato INT IDENTITY(1,1) PRIMARY KEY,
+    id_doenca INT,
+    id_hospital INT,
+    id_medicamento INT,
+    id_pessoa INT,
+    id_plano INT,
+    
+    FOREIGN KEY (id_doenca) REFERENCES Doenca(id_doenca),
+    FOREIGN KEY (id_hospital) REFERENCES Hospital(id_hospital),
+    FOREIGN KEY (id_medicamento) REFERENCES Medicamento(id_medicamento),
+    FOREIGN KEY (id_pessoa) REFERENCES Pessoa(id_pessoa),
+    FOREIGN KEY (id_plano) REFERENCES Plano(id_plano)
+);

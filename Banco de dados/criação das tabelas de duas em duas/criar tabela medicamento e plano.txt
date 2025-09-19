@@ -1,0 +1,32 @@
+-- Criação da tabela Medicamento
+IF NOT EXISTS (
+    SELECT 1 FROM sys.tables WHERE name = 'Medicamento'
+)
+BEGIN
+    CREATE TABLE Medicamento (
+        id_medicamento INT IDENTITY(1,1) PRIMARY KEY,
+        nome VARCHAR(255) NOT NULL,
+        meio_administrativo VARCHAR(255),
+        estado_fisico VARCHAR(255),
+        dose DECIMAL(10,2),
+        quantidade_vezes_dia INT
+    );
+END;
+GO
+
+-- Criação da tabela Plano
+IF NOT EXISTS (
+    SELECT 1 FROM sys.tables WHERE name = 'Plano'
+)
+BEGIN
+    CREATE TABLE Plano (
+        id_plano INT IDENTITY(1,1) PRIMARY KEY,
+        nome VARCHAR(255) NOT NULL,
+        estado VARCHAR(255),
+        cidade VARCHAR(255),
+        bairro VARCHAR(255),
+        numero INT,
+        complemento VARCHAR(255)
+    );
+END;
+GO
