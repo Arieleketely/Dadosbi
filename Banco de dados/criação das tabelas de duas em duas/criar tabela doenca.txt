@@ -1,0 +1,6 @@
+  CREATE TABLE Doenca (
+        id_doenca INT IDENTITY(1,1) PRIMARY KEY,
+        nome VARCHAR(255) NOT NULL,
+       
+
+    );
