@@ -60,4 +60,41 @@ O sistema foi projetado para:
 • 	Apoiar decisões estratégicas em saúde pública e gestão hospitalar.
 • 	Facilitar auditorias e controle de qualidade nos serviços prestados.
 
-#Projeto 2 - Controle de saúde para diabetes em gestantes
+#Projeto 2 
+
+# 🤰 Projeto: Monitoramento de Diabetes Gestacional
+
+## 📌 Descrição
+Este projeto tem como objetivo **controlar e analisar dados de gestantes com risco de diabetes gestacional**, utilizando indicadores clínicos e demográficos. A solução foi desenvolvida para ser explorada em **Power BI**, permitindo a criação de dashboards interativos e relatórios dinâmicos.
+
+## 🧬 Variáveis Monitoradas
+- **IMC (Índice de Massa Corporal)**
+- **Glicose**
+- **Idade**
+- **Insulina**
+- **Número de gestações**
+- **Diagnóstico de diabetes** (Sim/Não)
+
+## 🎯 Objetivos
+- Identificar gestantes com maior risco de desenvolver diabetes.
+- Acompanhar indicadores clínicos ao longo da gestação.
+- Apoiar profissionais de saúde na tomada de decisão.
+- Gerar relatórios visuais e interativos para análise.
+
+## 📊 Power BI
+O projeto utiliza **Power BI** para:
+- Criar **dashboards interativos** com gráficos de dispersão, histogramas e indicadores.
+- Permitir **filtros dinâmicos** por idade, IMC ou número de gestações.
+- Exibir **KPIs** como média de glicose, percentual de gestantes com diabetes e distribuição por faixa etária.
+
+## 🚀 Benefícios
+- **Prevenção precoce** de complicações gestacionais.
+- **Melhoria na qualidade do atendimento** médico.
+- **Redução de custos hospitalares** com internações evitáveis.
+- **Empoderamento da paciente**, que pode acompanhar seus próprios indicadores.
+
+---
+
+👩‍⚕️ Este projeto é voltado para profissionais de saúde, pesquisadores e gestores hospitalares que desejam **monitorar e analisar dados de diabetes gestacional** de forma prática e visual.
+
+
