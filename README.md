@@ -60,9 +60,9 @@ O sistema foi projetado para:
 • 	Apoiar decisões estratégicas em saúde pública e gestão hospitalar.
 • 	Facilitar auditorias e controle de qualidade nos serviços prestados.
 
-#Projeto 2 
 
-# 🤰 Projeto: Monitoramento de Diabetes Gestacional
+
+# 🤰 Projeto 2: Monitoramento de Diabetes Gestacional
 
 ## 📌 Descrição
 Este projeto tem como objetivo **controlar e analisar dados de gestantes com risco de diabetes gestacional**, utilizando indicadores clínicos e demográficos. A solução foi desenvolvida para ser explorada em **Power BI**, permitindo a criação de dashboards interativos e relatórios dinâmicos.
