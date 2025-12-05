@@ -1,4 +1,4 @@
-# Controle de saúde
+#Projeto 1 - Controle de saúde
 Projeto banco de dados:
 
  Descrição do Projeto: Sistema de Gestão de Saúde
@@ -59,3 +59,5 @@ O sistema foi projetado para:
 • 	Gerar relatórios gerenciais por região, hospital, plano ou tipo de doença.
 • 	Apoiar decisões estratégicas em saúde pública e gestão hospitalar.
 • 	Facilitar auditorias e controle de qualidade nos serviços prestados.
+
+#Projeto 2 - Controle de saúde para diabetes em gestantes
