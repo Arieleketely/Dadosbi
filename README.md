@@ -6,7 +6,7 @@ Sistema de Gestão de Saúde
 Este projeto representa um sistema de banco de dados para gestão de informações em saúde, estruturado em um modelo de Data Warehouse com esquema estrela, ideal para análises multidimensionais e relatórios gerenciais. Ele integra dados sobre pacientes, doenças, medicamentos, hospitais e planos de saúde, centralizados em uma tabela de fatos.
 
 
-Estrutura do Modelo Estrela
+## 🧬 Estrutura do Modelo Estrela
 
 • 	Tabela Fato (): É o núcleo analítico do sistema, conectando todas as dimensões por meio de chaves estrangeiras. Cada registro representa uma ocorrência de tratamento ou atendimento, relacionando:
 
@@ -20,7 +20,7 @@ Estrutura do Modelo Estrela
 
 • 	Plano de saúde
 
- Tabelas Dimensionais
+## 🧬  Tabelas Dimensionais 
 
 1. 	Pessoa
 
@@ -52,7 +52,7 @@ Estrutura do Modelo Estrela
 • 	Representa os planos de saúde vinculados aos atendimentos.
 • 	Suporta análises de cobertura, rede credenciada e perfil de usuários.
 
-Objetivo do Sistema
+## 🎯 Objetivo do Sistema
 
 O sistema foi projetado para:
 
