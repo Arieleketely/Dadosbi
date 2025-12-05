@@ -8,7 +8,9 @@ Este projeto representa um sistema de banco de dados para gestão de informaçõ
 
 ## 🧬 Estrutura do Modelo Estrela
 
-• 	Tabela Fato (): É o núcleo analítico do sistema, conectando todas as dimensões por meio de chaves estrangeiras. Cada registro representa uma ocorrência de tratamento ou atendimento, relacionando:
+• 	Tabela Fato (): 
+
+É o núcleo analítico do sistema, conectando todas as dimensões por meio de chaves estrangeiras. Cada registro representa uma ocorrência de tratamento ou atendimento, relacionando:
 
 • 	Pessoa (paciente)
 
