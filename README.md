@@ -31,24 +31,28 @@ Este projeto representa um sistema de banco de dados para gestão de informaçõ
 
 
 • 	Contém os nomes das doenças registradas.
+
 • 	Suporta estudos epidemiológicos e estatísticas de incidência.
 
 3. 	Medicamento
 
 
 • 	Detalha os medicamentos utilizados, incluindo forma de administração, estado físico, dosagem e frequência.
+
 • 	Essencial para análises de prescrição e controle de estoque.
 
 4. 	Hospital
 
 
 • 	Registra os dados dos hospitais envolvidos nos atendimentos.
+
 • 	Permite avaliar desempenho por unidade de saúde e região.
 
 5. 	Plano
 
 
 • 	Representa os planos de saúde vinculados aos atendimentos.
+
 • 	Suporta análises de cobertura, rede credenciada e perfil de usuários.
 
 ## 🎯 Objetivo do Sistema
@@ -56,8 +60,11 @@ Este projeto representa um sistema de banco de dados para gestão de informaçõ
 O sistema foi projetado para:
 
 • 	Monitorar tratamentos e interações entre pacientes, doenças e medicamentos.
+
 • 	Gerar relatórios gerenciais por região, hospital, plano ou tipo de doença.
+
 • 	Apoiar decisões estratégicas em saúde pública e gestão hospitalar.
+
 • 	Facilitar auditorias e controle de qualidade nos serviços prestados.
 
 
