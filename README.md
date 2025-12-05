@@ -1,5 +1,4 @@
-# Projeto 1 - Controle de saúde
-Projeto banco de dados:
+# Projeto 1 - Controle de saúde na pasta banco de dados:
 
 ## 📌 Descrição
 Sistema de Gestão de Saúde
