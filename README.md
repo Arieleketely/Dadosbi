@@ -2,6 +2,7 @@
 
 ## 📌 Descrição
 Sistema de Gestão de Saúde
+
 Este projeto representa um sistema de banco de dados para gestão de informações em saúde, estruturado em um modelo de Data Warehouse com esquema estrela, ideal para análises multidimensionais e relatórios gerenciais. Ele integra dados sobre pacientes, doenças, medicamentos, hospitais e planos de saúde, centralizados em uma tabela de fatos.
 
 
