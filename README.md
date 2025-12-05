@@ -63,7 +63,7 @@ O sistema foi projetado para:
 
 
 
-# 🤰 Projeto 2: Monitoramento de Diabetes Gestacional a pasta digital innovation one
+# 🤰 Projeto 2: Monitoramento de Diabetes Gestacional na pasta digital innovation one
 
 ## 📌 Descrição
 Este projeto tem como objetivo **controlar e analisar dados de gestantes com risco de diabetes gestacional**, utilizando indicadores clínicos e demográficos. A solução foi desenvolvida para ser explorada em **Power BI**, permitindo a criação de dashboards interativos e relatórios dinâmicos.
